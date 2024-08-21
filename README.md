@@ -36,3 +36,18 @@ Jorge Eduardo Vélez Henao
 [Email](jorgeedovelez@gmail.com)
 [Cell Phone](https://wa.me/573007407228)
 
+## Other Usefull commands:
+
+😃  (: nombre_emoji)(junto)
+
+|Python|SQL|
+|------|----|
+|Hello|World|
+
+Para compartir código:
+
+`insert your code here:`
+
+negrita: ** negrita** (sin espacios)
+
+cursiva: * cursiva* (sin espacios)
